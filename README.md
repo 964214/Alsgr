@@ -1,4 +1,4 @@
-# Alsgrgit init
+# Alsgr
 git add .
 git commit -m "First Upload - Sakr Programming Tool"
 git branch -M main
